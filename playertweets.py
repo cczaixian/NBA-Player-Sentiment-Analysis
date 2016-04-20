@@ -5,10 +5,10 @@ import requests
 import time
 import pandas as pd
 
-CONSUMER_KEY = 'zgPC7n7fEAJuPLQvnM5QvrJZA'
-CONSUMER_SECRET = 'zGZnfNPEqqCR2ucrSal9kUPSE7PRCqF6gRNkWckYMImlhXoKtl'
-ACCESS_KEY = "257783857-3aba5yMJyg3w5DiNe9nJcEvk4cxPbRh73iiXT6e9"
-ACCESS_SECRET = "blsUHUCouvON61RT4h5Fqwe0P0pIPcjNvRAcOJTbhipGV"
+CONSUMER_KEY = 
+CONSUMER_SECRET = 
+ACCESS_KEY = 
+ACCESS_SECRET = 
 # create my_twitter folder
 if not os.path.exists('my_twitter'):os.mkdir('my_twitter')
 
